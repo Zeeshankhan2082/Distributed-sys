@@ -1,9 +1,5 @@
 # Assignment 3: Implementing a Write-Ahead Logging for consistency in Replicated Database with Sharding
 
-## Group Members:
-### [Ayush Kumar Dwivedi](https://github.com/ayushdwivedi1254/) (20CS10084)  
-### [Saptarshi De Chaudhury](https://github.com/saptarshidec) (20CS10080)  
-### [Nikumbh Sarthak Sham](https://github.com/sarthak-nik) (20CS30035)  
 
 ## Prerequisites
 Ensure that Docker and Docker Compose are installed on your machine before proceeding.  
